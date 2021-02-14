@@ -14,6 +14,7 @@ public class acat {
 	public WebDriverWait wait;
 	public String URL = "http://13.59.21.169:8080/ProdWebapp";
 	public String URL1 = "http://13.59.21.169:8080/ProdWebapp/avncreatepage.jsp";
+	// comment added to check git commit trigger for job 
 	//public String URL = "http://localhost:8080/AVNCommunication-1.0/avnlogin.jsp";
 	//public String URL1 = "http://localhost:8080/AVNCommunication-1.0/avncreatepage.jsp";
 	
