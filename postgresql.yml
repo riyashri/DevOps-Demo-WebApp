@@ -45,7 +45,7 @@
     -
       pause: seconds=5
     -
-      get_url: "url=https://raw.githubusercontent.com/devopsbc01/Scripts/master/initial-table.sql dest=/home/postgres/scripts
+      get_url: url=https://raw.githubusercontent.com/devopsbc01/Scripts/master/initial-table.sql dest=/home/postgres/scripts
       name: "download table script"
     -
       name: "run script"
