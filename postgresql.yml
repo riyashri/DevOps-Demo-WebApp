@@ -53,10 +53,3 @@
     -
       name: "restarting db"
       shell: "sudo /etc/init.d/postgresql restart"
-  vars:
-    dfolder: /postgres/data
-    logfile: psqlinstall-log
-    rfolder: /postgres
-    scripts: /home/$USER/scripts
-    sqlscript: $scripts/initial-table.sql
-    sysuser: postgres
